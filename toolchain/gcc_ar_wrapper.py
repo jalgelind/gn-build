@@ -12,6 +12,7 @@ to do the equivalent of:
 """
 
 import argparse
+import errno
 import os
 import subprocess
 import sys
