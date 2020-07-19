@@ -1,3 +1,8 @@
+# Fork notes
+
+In this fork I've applied some patches to make the GN setup work for me. Some of these patches may
+not be needed anymore.
+
 # //build directory for GN-based projects
 
 This project provides a work-in-progress standalone version of the toolchains and configs used by the Chromium project.
